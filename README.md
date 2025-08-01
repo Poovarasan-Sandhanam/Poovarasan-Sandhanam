@@ -1,20 +1,20 @@
 # 👋 Hello! I'm Poovarasan Sandhanam
 
-Welcome to my GitHub profile! I'm a Master’s student and a passionate full-stack developer with over 2 years of experience in front-end and mobile app development. I'm excited to share my projects and collaborate with others in the tech community.
+Welcome to my GitHub profile! I'm a passionate full-stack developer with over 2 years of experience in front-end and mobile app development. I'm excited to share my projects and collaborate with others in the tech community.
 
 ## 🌱 About Me
 
-- 🎓 Currently pursuing a Master’s degree in MSc Computing at University of Northampton.
-- 💻 Proficient in front-end technologies like HTML, CSS, JavaScript, and frameworks like React.
+- 🎓 Master’s degree in MSc Computing at University of Northampton.
+- 💻 Proficient in front-end technologies like HTML, CSS, JavaScript/Typescript, and frameworks like React,Express.
 - 📱 Experienced in mobile app development using React Native.
 - 🌍 Always eager to learn new technologies and improve my skills.
 
 ## 🔧 Skills
 
 - **Languages:** JavaScript,TypeScript, HTML, CSS
-- **Frameworks & Libraries:** React,React Native, Node.js
+- **Frameworks & Libraries:** React,React Native, Node.js,Express
 - **Databases:** MongoDB, MySQL, Firebase
-- **Tools & Platforms:** Git, Docker, AWS, Firebase
+- **Tools & Platforms:** Git, Docker, AWS, Firebase,Postman
 
 
 ## 📫 Connect with Me
