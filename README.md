@@ -1,108 +1,18 @@
-# 👋 Hi, I'm Poovarasan Sandhanam
-
-### Full-Stack & React Native Engineer
-
-I build **production-ready web and mobile applications** using **React, React Native, TypeScript, and Node.js**.
-
-I enjoy working across the stack — from building polished mobile experiences and scalable APIs to integrating third-party services, improving application performance, and shipping reliable software.
-
-🎓 **MSc Computing (Software Engineering)** — University of Northampton
-📱 **React Native | Expo | TypeScript | React**
-⚙️ **Node.js | Express | REST APIs | GraphQL**
-🗄️ **MongoDB | PostgreSQL | Firebase**
-☁️ **AWS | GitHub Actions | Docker**
-🇬🇧 Based in the UK
-
----
-
-## 🚀 What I Work With
-
-### Mobile & Frontend
-
-* React Native
-* Expo
-* React
-* TypeScript
-* JavaScript
-* Next.js
-* React Navigation
-* Zustand
-* Redux Toolkit
-* TanStack Query
-
-### Backend
-
-* Node.js
-* Express.js
-* NestJS
-* REST APIs
-* GraphQL
-* WebSockets
-
-### Data & Cloud
-
-* MongoDB
-* PostgreSQL
-* Firebase / Firestore
-* SQLite
-* AWS
-* Docker
-
-### Engineering & Tooling
-
-* Git & GitHub
-* GitHub Actions
-* EAS
-* Fastlane
-* Jest
-* Detox
-* Postman
-* Android Studio
-* Xcode
+# 💫 About Me:
+## 👨‍💻 About Me<br><br>* 🔭 **Currently working on:** Building **high-performance, production-grade React Native applications**, with a focus on scalable architecture, smooth UI interactions, rendering performance and modern React Native technologies including **Fabric, JSI, TurboModules, Hermes and Reanimated**.<br><br>* 🤝 **Looking to collaborate on:** **React Native, React, TypeScript and open-source projects** involving complex UI, performance optimisation, mobile architecture, real-time systems and products that require thoughtful engineering decisions.<br><br>* 🆘 **Looking for help with:** Exploring deeper areas of **native iOS/Android internals, distributed systems and large-scale mobile architecture** — particularly how these systems behave under real-world production workloads.<br><br>* 🌱 **Currently learning:** Continuously deepening my understanding of **React Native internals, New Architecture, JSI, Fabric, TurboModules, Hermes, mobile system design, performance engineering and cloud architecture**.<br><br>* 💼 **Open to opportunities:** Seeking **Senior Mobile / React Native Engineering opportunities in the UK**, where I can take ownership of technical decisions, contribute to challenging products and grow with a strong engineering team. **Open to long-term opportunities with future UK visa sponsorship.**<br><br>* 💬 **Ask me about:** **React Native, React, TypeScript, JavaScript, Expo, mobile architecture, Reanimated, React Native Skia, Zustand, Redux, REST APIs, Node.js, performance optimisation and building production-ready cross-platform applications**.<br><br>* ⚡ **Fun fact:** I don't just care about whether an application **works** — I care about **how it works under the hood**. I enjoy profiling bottlenecks, understanding rendering behaviour and turning complex engineering problems into simple, maintainable solutions.<br>
 
 
-## 🧠 Currently Exploring
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/poovarasan_ksp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Poovarasan Sandhanam) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Poovarasan Sandhanam) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Poovarasan Ksp) 
 
-I'm continuously improving my engineering skills and currently exploring:
-
-* ⚡ React Native performance
-* 🎨 React Native Skia
-* 🧵 Reanimated & JSI
-* 🏗️ Native Modules & the New Architecture
-* 🤖 AI-powered application features
-* 🔎 LLMs, RAG & Vector Databases
-* ☁️ Cloud architecture & scalable APIs
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Poovarasan-Sandhanam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Poovarasan-Sandhanam&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Poovarasan-Sandhanam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Poovarasan-Sandhanam&icon=0&color=1)](https://visitcount.itsvg.in)
 
-## 💼 Engineering Interests
-
-I'm particularly interested in building products where **performance, user experience and engineering quality** matter.
-
-Areas I enjoy working on:
-
-**Mobile Engineering → Full-Stack Development → Performance → Developer Experience → AI-powered Applications**
-
----
-
-## 📊 GitHub
-
-I use GitHub to experiment with new technologies, build products, document what I learn, and contribute to the developer community.
-
-If you find something interesting in my repositories, feel free to ⭐ the project or open an issue/discussion.
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with engineers, founders, recruiters and people building interesting products.
-
-**LinkedIn:** [Poovarasan S](https://www.linkedin.com/in/poovarasan-s-aa29481b0/)
-**Email:** [poovarasansandhanam@gmail.com](mailto:poovarasansandhanam@gmail.com)
-
----
-
-### Thanks for visiting 👋
-
-**Build → Learn → Improve → Repeat**
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
