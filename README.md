@@ -1,27 +1,51 @@
 # 👋 Hi, I'm Poovarasan Sandhanam
 
-### Senior Software Engineer · React Native · React · TypeScript
+### Senior Software Engineer · React Native · Native Android · React · TypeScript
 
-I'm a Software Engineer with **5 years of experience** building production web and mobile applications with **React, React Native, TypeScript and JavaScript**.
+I'm a Software Engineer with **5 years of experience** building production mobile and web applications. I work across **native Android (Kotlin)** and **cross-platform development with React Native**, alongside **React, TypeScript and JavaScript** on the web.
 
-I enjoy working on complex products where **performance, architecture, scalability and user experience** matter — from cross-platform mobile applications to real-time systems and high-performance interfaces.
+I enjoy working on complex products where **performance, architecture, scalability and user experience** matter — from native Android apps and cross-platform mobile applications to real-time systems and high-performance interfaces.
 
-Currently based in **London, UK** and open to **Senior Mobile, React Native, React and Software Engineering opportunities**.
+Currently based in **London, UK** and open to **Senior Android, React Native, Mobile, React and Software Engineering opportunities**.
 
 ---
 
 ## 🚀 What I Work On
 
+* 🤖 **Native Android** applications with Kotlin & Jetpack Compose
 * 📱 **React Native** applications for iOS & Android
+* 🔗 Native Android modules for React Native (TurboModules, Fabric components, background services)
 * ⚛️ **React & TypeScript** web applications
-* 🏗️ Scalable frontend and mobile architecture
+* 🏗️ Scalable mobile and frontend architecture
 * ⚡ Performance optimisation and rendering
 * 🔄 Real-time applications with WebSockets
 * ☁️ Node.js APIs and cloud-backed applications
-* 🧩 Native iOS/Android integrations
+* 🧩 Native iOS integrations
 * 🎨 High-performance UI and animations
 * 🧪 Testing, CI/CD and production releases
 * 🤖 Exploring AI-assisted development, RAG and agentic interfaces
+
+---
+
+## 🤖 Native Android Engineering
+
+I build native Android apps as well as the native layer behind React Native apps, so I'm comfortable on both sides of the bridge.
+
+### Android
+
+`Kotlin` · `Jetpack Compose` · `Coroutines & Flow` · `ViewModel` · `Room` · `Retrofit` · `Hilt / Dagger`
+
+### Platform & Security
+
+`Android Keystore` · `BiometricPrompt` · `WorkManager` · `Foreground Services` · `Permissions` · `Push Notifications (FCM)`
+
+### Build & Release
+
+`Gradle` · `R8 / ProGuard` · `App Bundles` · `JNI / NDK` · `Play Console` · `Fastlane` · `GitHub Actions`
+
+### Testing & Tooling
+
+`JUnit` · `Espresso` · `Android Studio Profiler` · `Logcat` · `Detox`
 
 ---
 
@@ -39,7 +63,7 @@ I'm particularly interested in understanding what happens **under the hood** rat
 
 ### Native
 
-`Swift` · `Kotlin` · Native Modules · iOS · Android · Keychain / Keystore · Biometrics
+`Kotlin` · `Swift` · Native Modules · Android · iOS · Keystore / Keychain · Biometrics
 
 ### State & Data
 
@@ -51,13 +75,20 @@ I'm particularly interested in understanding what happens **under the hood** rat
 
 ### Languages
 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square\&logo=kotlin\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square\&logo=swift\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square\&logo=kotlin\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 
-### Frontend & Mobile
+### Native Android
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square\&logo=android\&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square\&logo=jetpackcompose\&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square\&logo=androidstudio\&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square\&logo=gradle\&logoColor=white)
+
+### Frontend & Cross-Platform Mobile
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
@@ -97,12 +128,15 @@ I'm particularly interested in understanding what happens **under the hood** rat
 
 I'm currently going deeper into:
 
+* 🤖 Modern Android architecture with Kotlin, Jetpack Compose and Coroutines
+* 🧵 Android threading and the main/UI thread vs. the JS thread
+* 📦 Android build tooling: Gradle, R8/ProGuard and app bundle optimisation
 * ⚙️ React Native New Architecture
 * 🧠 JSI and the JavaScript ↔ Native boundary
 * 🎨 Fabric and the rendering pipeline
-* 🧩 TurboModules and native modules
+* 🧩 TurboModules and native modules in Kotlin
 * ⚡ Hermes and JavaScript performance
-* 📊 React Native performance profiling
+* 📊 Mobile performance profiling (Android Studio Profiler, React Native)
 * 🖌️ Skia and GPU-powered interfaces
 * 🏗️ Mobile system design
 * ☁️ Distributed systems and cloud architecture
@@ -117,6 +151,7 @@ I enjoy writing about things I'm learning while building real applications.
 
 ### Recent topics
 
+* 🤖 Native Android & Kotlin
 * ⚛️ React & React Native Hooks
 * ⚡ React Native Performance
 * 🏗️ Mobile Architecture
@@ -131,7 +166,7 @@ I enjoy writing about things I'm learning while building real applications.
 
 I'm interested in connecting with engineers, founders and teams working on **challenging products and developer-focused technology**.
 
-* 💼 **Open to:** Senior React Native / Mobile / React / Software Engineering roles
+* 💼 **Open to:** Senior Android / React Native / Mobile / React / Software Engineering roles
 * 📍 **Location:** London, UK
 * 🌍 **Open to:** Hybrid, remote and relocation opportunities
 * 🇬🇧 **UK work status:** Graduate / PSW visa
